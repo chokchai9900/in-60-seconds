@@ -6,7 +6,7 @@
 
 ![IMAGE](assets/img/UI.PNG)
 
----?color=linear-gradient(180deg, white 75%, black 25%)
+---?color=linear-gradient(180deg, white 0%, black 100%)
 @title[Customize Slide Layout]
 
 @snap[west span-50]
