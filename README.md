@@ -327,3 +327,4 @@ tool for Linux, OSX, and Windows 10 [Pro + Enterprise].
 
 Excited? We hope so. Time now to jump straight back into the interactive GitPitch
 feature guides [here](https://gitpitch.com/docs/getting-started/tutorial).
+"# DiceNow_Present" 
