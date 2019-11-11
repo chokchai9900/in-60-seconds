@@ -13,7 +13,7 @@
 ## อธิบาย UI !!
 @snapend
 
-@snap[east span-50]
+@snap
 ![IMAGE](assets/img/UI.PNG)
 @snapend
 
