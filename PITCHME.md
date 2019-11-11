@@ -1,25 +1,29 @@
-# Let's Get Started
+# Hi-LOW Program !!
 
 ---
 
-## Add Some Slide Candy
+## สร้าง UI interface ตามที่โจทย์ให้มา
 
-![IMAGE](assets/img/presentation.png)
+![IMAGE](assets/img/UI.PNG)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize the Layout
+## อธิบาย UI !!
 @snapend
 
 @snap[east span-50]
-![IMAGE](assets/img/presentation.png)
+![IMAGE](assets/img/UI.PNG)
 @snapend
 
 @snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
+จะมีช่องลูกเต๋าทั้งหมด 3 ชุด ปุ่มกดเพื่อยืนยัน ผลลัพธ์ และผลรวมที่เราเลือกมาจากลูกเต๋าทั้ง 3 ชุด
 @snapend
+
+---
+# Let's write the code !!
+
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Add A Little Imagination]
